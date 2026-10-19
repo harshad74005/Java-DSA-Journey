@@ -16,3 +16,5 @@ public static void main(String[] args) {
 	System.out.println("Result : "+Arrays.toString(temp));
 }
 }
+
+//leetcode quetion no 2469
