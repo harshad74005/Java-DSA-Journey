@@ -16,8 +16,10 @@ static int numberofemployee(int[] hours,int target)
 }
 public static void main(String[] args) {
 	int[] hours= {0,1,2,3,4};
-	int target = 6;
+	int target = 2;
 	int res = numberofemployee(hours, target);
 	System.out.println(res);
 }
 }
+
+// leetcode quetion no 2798
